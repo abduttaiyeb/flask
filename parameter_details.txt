@@ -1,0 +1,51 @@
+a
+For 192.168.0.122(92.97.111.215) , Port 132 is closed
+For 192.168.0.122(92.97.111.215) , Port 133 is closed
+For 192.168.0.122(92.97.111.215) , Port 134 is closed
+For 192.168.0.122(92.97.111.215) , Port 135 is open
+For 192.168.0.122(92.97.111.215) , Port 136 is closed
+For 192.168.0.122(92.97.111.215) , Port 137 is closed
+For 192.168.0.122(92.97.111.215) , Port 138 is closed
+For 192.168.0.122(92.97.111.215) , Port 139 is closed
+For 192.168.0.122(92.97.111.215) , Port 140 is closed
+Port scanning results:
+Port 132 is closed
+Port 133 is closed
+Port 134 is closed
+Port 135 is open
+Port 136 is closed
+Port 137 is closed
+Port 138 is closed
+Port 139 is closed
+
+Port scanning results:
+Port 132 is closed
+Port 133 is closed
+Port 134 is closed
+Port 135 is open
+Port 136 is closed
+Port 137 is closed
+Port 138 is closed
+Port 139 is closed
+
+Port 132 is closed for 192.168.0.184 (92.97.111.215)
+Port 133 is closed for 192.168.0.184 (92.97.111.215)
+Port 134 is closed for 192.168.0.184 (92.97.111.215)
+Port 135 is open for 192.168.0.184 (92.97.111.215)
+Port 136 is closed for 192.168.0.184 (92.97.111.215)
+Port 137 is closed for 192.168.0.184 (92.97.111.215)
+Port 138 is closed for 192.168.0.184 (92.97.111.215)
+Port 139 is closed for 192.168.0.184 (92.97.111.215)
+Port 137 is closed for 192.168.0.184 (92.97.111.215)
+Port 137 is closed for 192.168.0.184 (92.97.111.215)
+Port 132 is closed for 192.168.0.184 (92.97.111.215)
+Port 133 is closed for 192.168.0.184 (92.97.111.215)
+Port 134 is closed for 192.168.0.184 (92.97.111.215)
+Port 135 is open for 192.168.0.184 (92.97.111.215)
+Port 136 is closed for 192.168.0.184 (92.97.111.215)
+Port 137 is closed for 192.168.0.184 (92.97.111.215)
+Port 138 is closed for 192.168.0.184 (92.97.111.215)
+Port 139 is closed for 192.168.0.184 (92.97.111.215)
+Port 135 is open for 192.168.0.184 (92.97.111.215)
+Port 135 is open for 192.168.0.184 (92.97.111.215)
+Port 135 is open for 192.168.0.184 (92.97.111.215)
